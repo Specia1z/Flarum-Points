@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Acme\\Points\\": "src/"
+            "Specia1z\\Points\\": "src/"
         }
     },
     "extra": {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Acme\Points\Api\Controller;
+namespace Specia1z\Points\Api\Controller;
 
-use Acme\Points\PointsRepository;
+use Specia1z\Points\PointsRepository;
 use Flarum\Http\Exception\InvalidParameterException;
 use Flarum\Http\RequestUtil;
 use Flarum\User\User;

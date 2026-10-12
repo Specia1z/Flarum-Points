@@ -1,8 +1,8 @@
 <?php
 
-use Acme\Points\Api\UserResourceFields;
-use Acme\Points\Api\Controller\AdjustPointsController;
-use Acme\Points\Listener\PointsListener;
+use Specia1z\Points\Api\UserResourceFields;
+use Specia1z\Points\Api\Controller\AdjustPointsController;
+use Specia1z\Points\Listener\PointsListener;
 use Flarum\Api\Resource;
 use Flarum\Extend;
 

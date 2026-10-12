@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\Points;
+namespace Specia1z\Points;
 
 use Carbon\Carbon;
 use Flarum\User\User;

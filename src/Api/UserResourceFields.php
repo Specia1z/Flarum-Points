@@ -1,8 +1,8 @@
 <?php
 
-namespace Acme\Points\Api;
+namespace Specia1z\Points\Api;
 
-use Acme\Points\PointsRepository;
+use Specia1z\Points\PointsRepository;
 use Flarum\Api\Schema;
 use Flarum\User\User;
 

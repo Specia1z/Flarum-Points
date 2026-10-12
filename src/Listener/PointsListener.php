@@ -1,8 +1,8 @@
 <?php
 
-namespace Acme\Points\Listener;
+namespace Specia1z\Points\Listener;
 
-use Acme\Points\PointsRepository;
+use Specia1z\Points\PointsRepository;
 use Flarum\Discussion\Event\Deleted as DiscussionDeleted;
 use Flarum\Discussion\Event\Started;
 use Flarum\Likes\Event\PostWasLiked;
