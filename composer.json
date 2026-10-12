@@ -1,6 +1,6 @@
 {
     "name": "specia1z/points",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "description": "A configurable points and rewards system for Flarum.",
     "type": "flarum-extension",
     "license": "MIT",
